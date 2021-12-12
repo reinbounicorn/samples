@@ -1,5 +1,5 @@
 """
-This program draw a orange and yellow honeycomb with a black colored bee in the
+This program draws a orange and yellow honeycomb with a black colored bee in the
 corner. This programs works on CodeHS.
 """
 #Function to color the background orange
